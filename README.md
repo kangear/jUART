@@ -58,7 +58,7 @@ Mac version is not released yet, I don't have a Mac to build and test the projec
 * `ser.send(char);` Send a byte to serial port
 
 Here is an echo test example, which is contained in the /example directory.
-```
+```html
 <html>
   <head>
     <title>test page for object fbcontrol</title>
